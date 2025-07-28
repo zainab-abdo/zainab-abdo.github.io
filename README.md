@@ -1,4 +1,5 @@
 👩‍💻 About Me
+
 I’m Zainab, a passionate student in the Faculty of Computers and Artificial Intelligence at Helwan National University. I specialize in Data Science and AI, and I have hands-on experience in programming, data analysis, machine learning, and NLP.
 
 💡 Technical Skills
