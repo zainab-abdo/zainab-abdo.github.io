@@ -13,7 +13,7 @@ AI/ML: Machine Learning, Deep Learning, NLP
 
 Soft Skills: Flexibility, Teamwork, Accuracy
 
-🎓 Certifications & Training
+🎓 Certifications & Training: 
 2 Big Data certificates from Huaweiو
 
 Certificate from the Ministry of Communications
