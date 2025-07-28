@@ -12,8 +12,10 @@ Data Science: Data Analytics, Statistics, Big Data, LLMs
 AI/ML: Machine Learning, Deep Learning, NLP
 
 Soft Skills: Flexibility, Teamwork, Accuracy
+
 🎓 Certifications & Training
-2 Big Data certificates from Huawei
+2 Big Data certificates from Huaweiو
+
 Certificate from the Ministry of Communications
 Python and Soft Skills training from NTI
 
