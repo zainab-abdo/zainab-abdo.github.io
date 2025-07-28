@@ -3,8 +3,11 @@ I’m Zainab, a passionate student in the Faculty of Computers and Artificial In
 
 💡 Technical Skills
 Programming Languages: C, C++, Python
+
 Concepts: OOP, Data Structures, Algorithms, Problem Solving
+
 Data Science: Data Analytics, Statistics, Big Data, LLMs
+
 AI/ML: Machine Learning, Deep Learning, NLP
 
 Soft Skills: Flexibility, Teamwork, Accuracy
