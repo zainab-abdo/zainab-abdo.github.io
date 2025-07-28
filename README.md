@@ -37,4 +37,4 @@ Data analysis project on animal datasets in a zoo using Python tools.
 
 📬 Contact
 📧 Email: abdozainab73@gmail.com
-🔗 LinkedIn: Zainab's LinkedIn Profile
+🔗 LinkedIn: [Zainab's LinkedIn Profile](https://www.linkedin.com/in/zainab-abdo-65948832a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
